@@ -322,7 +322,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
-        android:text="Seleccione 1 o mas categorías que te gusten:"
+        android:text="Seleccione solo 1 categoria:"
         android:textColor="#ADB3F8"
         android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
